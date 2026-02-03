@@ -2,7 +2,7 @@
 
 **BikeBuild** es una plataforma para que entusiastas del ciclismo lleven un registro técnico detallado de sus bicicletas, componentes y mantenimientos.
 
-## 🚀 Estado Atual del Proyecto
+## 🚀 Estado actual del proyecto
 
 El proyecto se encuentra en una fase funcional avanzada con un rediseño completo estilo **Neutral/Catalyst** y **Tailwind CSS 4**.
 
